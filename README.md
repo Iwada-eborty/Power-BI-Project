@@ -8,3 +8,5 @@ highest profits, with Downtown stores performing best. Sales peak between March 
 October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days.
 Recommendations include optimizing inventory, investing in high-performing locations, and
 addressing seasonal sales fluctuations to enhance profitability and business growth.
+
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/210f0cbe20e08b0e6f5115326225b1fca3956035/MTS%20Dashboard.png)
