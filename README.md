@@ -1,4 +1,6 @@
-# Project Overview
+# Maven Toy Store Analysis
+
+## Project Overview
 This analysis evaluates sales and inventory data from Maven Toy Store, a toy retail chain in Mexico.
 Using Microsoft Power BI, key insights were derived on product profitability, store performance,
 seasonal trends, and inventory management. Findings revealed that Toys and Electronics drive the
