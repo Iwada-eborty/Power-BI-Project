@@ -7,7 +7,7 @@ seasonal trends, and inventory management. Findings revealed that Toys and Elect
 highest profits, with Downtown stores performing best. Sales peak between March and July, while
 October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days.
 Recommendations include optimizing inventory, investing in high-performing locations, and
-addressing seasonal sales fluctuations to enhance profitability and business growth.
+addressing, seasonal sales fluctuations to enhance profitability and business growth.
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/210f0cbe20e08b0e6f5115326225b1fca3956035/MTS%20Dashboard.png)
 
@@ -22,7 +22,6 @@ Based on these findings, recommendations will be provided to optimize business s
 ## Key Business Questions
 1. Which product categories yield the highest profits, and how do these trends vary across
 different store locations?
-
 2. Are there identifiable seasonal sales patterns?
 3. What is the company's current market reach in terms of store distribution and geographic
 presence?
@@ -59,4 +58,36 @@ year, quarter, month, and day attributes.
 Effective data modeling structures raw data into an analytical framework, allowing seamless
 relationship-building between tables. In this project, Power BI automatically identified table
 relationships, forming a star schema model
+
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/35b21f1f6a78b07259582ae3e95219ed0d9f1592/Schema.png)
+
+• Fact Table: Sales Table, Inventory
+• Dimension Tables: Products, Stores, and Dates
+
+
+## Key Insights
+
+## Product Analysis
+1. **Which product categories generate the highest profits?**
+• Toys are the most profitable, contributing $1.08M (26.89%) of total profits.
+• Electronics follow closely with $1M (25%).
+• Sports & Outdoor products generate the lowest profit at $500K.
+2. **Are these profit trends location-dependent?**
+• Electronics dominate in Airport and Commercial locations.
+• Toys perform best in Downtown and Residential areas.
+3. **Top Performing Products**
+Highest Profit-Generating Products:
+1. Colorbuds - $835K
+2. Action Figure - $348K
+3. Lego Bricks - $298K
+4. Deck of Cards - $252K
+5. Glass Marbles - $190K
+4. **Most Sold Products**
+1. Colorbuds - 104K units (23.5%)
+2. Playdoh Can - 103K units (23.2%)
+3. Barrel O’Slime - 91K units
+4. Deck of Cards - 84K units
+5. Magic Sand - 61K units
+• Notably, Playdoh Can ranks high in sales volume but not in profitability.
+
 ![image alt]()
