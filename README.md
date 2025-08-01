@@ -98,6 +98,7 @@ relationships, forming a star schema model
 1. **Which locations generate the highest profits?**
    
 • Downtown stores lead with over $2M in profits.
+
 • Airport stores yield the lowest profit at $378K.
 
 2. **Most Profitable Stores?**
@@ -106,9 +107,11 @@ relationships, forming a star schema model
     3. Maven Toys Ciudad de Mexico 1 - $111K
     4. Maven Toys Monterrey 2 - $107K
     5. Maven Toys Toluca - $105K
-    6. 
+       
 3. **Least Profitable Stores?**
+   
 • Maven Toys Cuernavaca 1 - $57K
+
 • Maven Toys La Paz 1 - $57K
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/ac224a31572c28977f6bbccad11e724aadc8aa38/storereport.png)
@@ -117,27 +120,38 @@ relationships, forming a star schema model
 **• Peak Sales & Profits: March–July**
 
 o Highest Sales: April (112K units)
+
 o Highest Profit: March ($406K)
 
 **• Lowest Sales & Profits: October**
+
 o Sales: 48K units
+
 o Profit: $179K
 
 **• Quarterly Trends:**
+
 o Q2 (April–June): Highest sales
+
 o Q4 (October–December): Lowest sales
 
 **Yearly Trends:**
+
 • 2017: Sales peaked towards year-end.
+
 • 2018: Stronger sales from February–July, with March leading.
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/f70dc239fac23b59c15540c89290ee5c4a30a45b/TandP.png)
 
 ## Inventory Analysis
 **Current Inventory Value & Turnover:**
+
 • Total Inventory Value: $300K
+
 • Total Stock: 29,742 units
+
 • Average Daily Sales: 1,709 units
+
 • Estimated Inventory Duration: 15-17 days before restocking is required.
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/1c5e8c30a3f66f0c7a8595e00f3133a0a9161c17/Inventorymts.png)
