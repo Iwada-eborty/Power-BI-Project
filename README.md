@@ -76,18 +76,49 @@ relationships, forming a star schema model
 • Electronics dominate in Airport and Commercial locations.
 • Toys perform best in Downtown and Residential areas.
 3. **Top Performing Products**
-Highest Profit-Generating Products:
-1. Colorbuds - $835K
-2. Action Figure - $348K
-3. Lego Bricks - $298K
-4. Deck of Cards - $252K
-5. Glass Marbles - $190K
-4. **Most Sold Products**
-1. Colorbuds - 104K units (23.5%)
-2. Playdoh Can - 103K units (23.2%)
-3. Barrel O’Slime - 91K units
-4. Deck of Cards - 84K units
-5. Magic Sand - 61K units
+   
+    **Highest Profit-Generating Products**
+   1. Colorbuds - $835K
+   2. Action Figure - $348K
+   3. Lego Bricks - $298K
+   4. Deck of Cards - $252K
+   5. Glass Marbles - $190K
+5. **Most Sold Products**
+   1. Colorbuds - 104K units (23.5%)
+   2. Playdoh Can - 103K units (23.2%)
+   3. Barrel O’Slime - 91K units
+   4. Deck of Cards - 84K units
+   5. Magic Sand - 61K units
+
 • Notably, Playdoh Can ranks high in sales volume but not in profitability.
 
-![image alt]()
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/cad0a0c5232ac891b91c6941a6294be3e8941d48/salesreport.png)
+
+## Store & Location Analysis
+1. **Which locations generate the highest profits?**
+• Downtown stores lead with over $2M in profits.
+• Airport stores yield the lowest profit at $378K.
+2. **Most Profitable Stores?**
+    1. Maven Toys Ciudad de Mexico 2 - $170K
+    2. Maven Toys Guadalajara 3 - $121K
+    3. Maven Toys Ciudad de Mexico 1 - $111K
+    4. Maven Toys Monterrey 2 - $107K
+    5. Maven Toys Toluca - $105K
+3. **Least Profitable Stores?**
+• Maven Toys Cuernavaca 1 - $57K
+• Maven Toys La Paz 1 - $57K
+
+## Seasonal Trends & Patterns
+**• Peak Sales & Profits: March–July**
+o Highest Sales: April (112K units)
+o Highest Profit: March ($406K)
+• Lowest Sales & Profits: October
+o Sales: 48K units
+o Profit: $179K
+• Quarterly Trends:
+o Q2 (April–June): Highest sales
+o Q4 (October–December): Lowest sales
+
+Yearly Trends:
+• 2017: Sales peaked towards year-end.
+• 2018: Stronger sales from February–July, with March leading.
