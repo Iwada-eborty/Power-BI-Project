@@ -134,5 +134,19 @@ Yearly Trends:
 • Average Daily Sales: 1,709 units
 • Estimated Inventory Duration: 15-17 days before restocking is required.
 
-![image alt](
-)
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/1c5e8c30a3f66f0c7a8595e00f3133a0a9161c17/Inventorymts.png)
+
+## Summary
+**Summary of Key Findings:**
+1. Downtown stores are the most profitable.
+2. Toys lead in profitability, followed by Electronics.
+3. Sales dip in January, February, and October.
+4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown
+and Residential areas.
+
+## Recommendations:
+1. Expand investment in Downtown stores to capitalize on high profitability.
+2. Investigate low sales in January and February to identify and mitigate potential market
+challenges.
+3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal
+stock levels.
