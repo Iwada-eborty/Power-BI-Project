@@ -124,3 +124,12 @@ o Q4 (October–December): Lowest sales
 Yearly Trends:
 • 2017: Sales peaked towards year-end.
 • 2018: Stronger sales from February–July, with March leading.
+
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/f70dc239fac23b59c15540c89290ee5c4a30a45b/TandP.png)
+
+## Inventory Analysis
+**Current Inventory Value & Turnover:**
+• Total Inventory Value: $300K
+• Total Stock: 29,742 units
+• Average Daily Sales: 1,709 units
+• Estimated Inventory Duration: 15-17 days before restocking is required.
