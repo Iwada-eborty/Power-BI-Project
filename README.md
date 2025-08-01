@@ -133,3 +133,6 @@ Yearly Trends:
 • Total Stock: 29,742 units
 • Average Daily Sales: 1,709 units
 • Estimated Inventory Duration: 15-17 days before restocking is required.
+
+![image alt](
+)
