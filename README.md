@@ -1,5 +1,18 @@
 # Maven Toy Store Business Analysis
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Key Questions](#key-questions)
+- [Tools Used](#tool-used)
+- [Data Processing](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Techniques](#techniques)
+- [Key Insights](#key-insights)
+- [Summary](#summary)
+- [Recommendation](#recommendation)
+
 ## Project Overview
 This analysis evaluates sales and inventory data from Maven Toy Store, a toy retail chain in Mexico.
 Using Microsoft Power BI, key insights were derived on product profitability, store performance,
@@ -7,7 +20,7 @@ seasonal trends, and inventory management. Findings revealed that Toys and Elect
 highest profits, with Downtown stores performing best. Sales peak between March and July, while
 October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days.
 Recommendations include optimizing inventory, investing in high-performing locations, and
-addressing, seasonal sales fluctuations to enhance profitability and business growth.
+addressing seasonal sales fluctuations to enhance profitability and business growth.
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/210f0cbe20e08b0e6f5115326225b1fca3956035/MTS%20Dashboard.png)
 
@@ -38,12 +51,12 @@ presence?
 • Data Visualization for interactive and insightful dashboards
 • Comprehensive Project Documentation for clear reporting of insights
 
-## Data Processing
+### Data Processing
 
 ### Data Importation and Cleaning Process:
 • Data was ingested using Power BI’s Excel connector.
 
-## Cleaning Steps:
+### Cleaning Steps:
 • Promoted headers for consistent column naming.
 • Converted ID columns from whole numbers to text (as they serve as unique identifiers rather
 than numerical values).
@@ -54,7 +67,7 @@ dataset.
 • Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting
 year, quarter, month, and day attributes.
 
-## Data Modeling
+### Data Modeling
 Effective data modeling structures raw data into an analytical framework, allowing seamless
 relationship-building between tables. In this project, Power BI automatically identified table
 relationships, forming a star schema model
@@ -67,7 +80,7 @@ relationships, forming a star schema model
 
 ## Key Insights
 
-## Product Analysis
+### Product Analysis
 1. **Which product categories generate the highest profits?**
 • Toys are the most profitable, contributing $1.08M (26.89%) of total profits.
 • Electronics follow closely with $1M (25%).
@@ -94,7 +107,7 @@ relationships, forming a star schema model
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/cad0a0c5232ac891b91c6941a6294be3e8941d48/salesreport.png)
 
-## Store & Location Analysis
+### Store & Location Analysis
 1. **Which locations generate the highest profits?**
    
 • Downtown stores lead with over $2M in profits.
@@ -116,7 +129,7 @@ relationships, forming a star schema model
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/ac224a31572c28977f6bbccad11e724aadc8aa38/storereport.png)
 
-## Seasonal Trends & Patterns
+### Seasonal Trends & Patterns
 **• Peak Sales & Profits: March–July**
 
 o Highest Sales: April (112K units)
@@ -143,7 +156,7 @@ o Q4 (October–December): Lowest sales
 
 ![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/f70dc239fac23b59c15540c89290ee5c4a30a45b/TandP.png)
 
-## Inventory Analysis
+### Inventory Analysis
 **Current Inventory Value & Turnover:**
 
 • Total Inventory Value: $300K
