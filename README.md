@@ -108,6 +108,8 @@ relationships, forming a star schema model
 • Maven Toys Cuernavaca 1 - $57K
 • Maven Toys La Paz 1 - $57K
 
+![image alt](https://github.com/Iwada-eborty/Power-BI-Project/blob/ac224a31572c28977f6bbccad11e724aadc8aa38/storereport.png)
+
 ## Seasonal Trends & Patterns
 **• Peak Sales & Profits: March–July**
 o Highest Sales: April (112K units)
